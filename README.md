@@ -1,5 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Hamish 👋
 
+## I'm a Software Engineer in Melbourne, Australia :australia:
+- 🔭 I’m currently working on endless side projects
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning: Micro Front-ends & React-Native Development
+
+### Connect with me:
+[<img align="left" alt="Hamish Buckmaster | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Hamish Buckmaster | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<img align="left" alt="Hamish Buckmaster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HamishBuckmaster&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+
+<img align="left" alt="Hamish Buckmasters's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamishBuckmaster" />
+
+[twitter]: https://twitter.com/HamishBuck
+[linkedin]: https://www.linkedin.com/in/hamish-buckmaster-a4165212a/
 <!--
 **HamishBuckmaster/HamishBuckmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
