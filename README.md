@@ -6,13 +6,18 @@
 - 🌱 I’m currently learning: Micro Front-ends & React-Native Development
 
 ### Connect with me:
+
 [<img align="left" alt="Hamish Buckmaster | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hamish Buckmaster | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ### Contributions 
 <a href="#">
   <img align="left" alt="Hamish Buckmaster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HamishBuckmaster&show_icons=true&hide_border=true&count_private=true" />
  </a>
+
+
 
 <a href="#">
   <img align="left" alt="Hamish Buckmasters's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamishBuckmaster" />
