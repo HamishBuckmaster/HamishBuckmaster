@@ -17,12 +17,6 @@
   <img align="left" alt="Hamish Buckmaster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HamishBuckmaster&show_icons=true&hide_border=true&count_private=true" />
  </a>
 
-
-
-<a href="#">
-  <img align="left" alt="Hamish Buckmasters's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamishBuckmaster" />
-</a>
-
 [twitter]: https://twitter.com/HamishBuck
 [linkedin]: https://www.linkedin.com/in/hamish-buckmaster-a4165212a/
 <!--
