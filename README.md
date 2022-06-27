@@ -1,9 +1,7 @@
 ### Hi there, I'm Hamish 👋
 
 ## I'm a Software Engineer in Melbourne, Australia :australia:
-- 🔭 I’m currently working on endless side projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🌱 I’m currently learning: Micro Front-ends & React-Native Development
+
 
 ### Connect with me:
 
